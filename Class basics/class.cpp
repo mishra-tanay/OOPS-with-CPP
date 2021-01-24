@@ -29,6 +29,6 @@ void Student::printName() {
 int main() {
 	Student* s2 = new Student("Tanay", 22);
 	s2->printName();
-    s2->printAge();
+	s2->printAge();
 	return 0;
 }
