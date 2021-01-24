@@ -1,2 +1,1 @@
-# More-about-CPP
-Sharing knowledge about CPP 
+# OOPS with C++
